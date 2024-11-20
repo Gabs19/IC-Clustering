@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1680862f-14b1-483d-a493-872c81dbcdde" name="Changes" comment="generated clustering kmeans">
+    <list default="true" id="1680862f-14b1-483d-a493-872c81dbcdde" name="Changes" comment="minor fix: fixing some words used in print kmens centers">
       <change beforePath="$PROJECT_DIR$/clustering_jupyter.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/clustering_jupyter.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -102,7 +102,7 @@
       <option name="presentableId" value="Default" />
       <updated>1731544425772</updated>
       <workItem from="1732063463748" duration="3346000" />
-      <workItem from="1732067708246" duration="1320000" />
+      <workItem from="1732067708246" duration="1686000" />
     </task>
     <task id="LOCAL-00001" summary="notebook">
       <option name="closed" value="true" />
@@ -144,7 +144,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732068886497</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="minor fix: fixing some words used in print kmens centers">
+      <option name="closed" value="true" />
+      <created>1732069280520</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1732069280520</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,7 +163,8 @@
     <MESSAGE value="cluster project IC" />
     <MESSAGE value="requirements libs" />
     <MESSAGE value="generated clustering kmeans" />
-    <option name="LAST_COMMIT_MESSAGE" value="generated clustering kmeans" />
+    <MESSAGE value="minor fix: fixing some words used in print kmens centers" />
+    <option name="LAST_COMMIT_MESSAGE" value="minor fix: fixing some words used in print kmens centers" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
