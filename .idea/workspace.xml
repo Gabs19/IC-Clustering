@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1680862f-14b1-483d-a493-872c81dbcdde" name="Changes" comment="clustering by categories, and heatmap, and some comments">
-      <change afterPath="$PROJECT_DIR$/random_forest.ipynb" afterDir="false" />
+    <list default="true" id="1680862f-14b1-483d-a493-872c81dbcdde" name="Changes" comment="decison tree inital code">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/decision_tree.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/decision_tree.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,8 +98,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-PY-243.21565.199" />
-        <option value="bundled-python-sdk-cab1f2013843-4ae2d6a61b08-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.21565.199" />
+        <option value="bundled-python-sdk-babbdf50b680-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.15989.155" />
       </set>
     </attachedChunks>
   </component>
@@ -115,7 +114,8 @@
       <workItem from="1732067708246" duration="2673000" />
       <workItem from="1732123075118" duration="9170000" />
       <workItem from="1732155351517" duration="184000" />
-      <workItem from="1732671351450" duration="844000" />
+      <workItem from="1732671351450" duration="1116000" />
+      <workItem from="1732748583905" duration="1563000" />
     </task>
     <task id="LOCAL-00001" summary="notebook">
       <option name="closed" value="true" />
@@ -181,7 +181,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732138704566</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="decison tree inital code">
+      <option name="closed" value="true" />
+      <created>1732672401648</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1732672401648</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -195,7 +203,8 @@
     <MESSAGE value="minor fix: fixing some words used in print kmens centers" />
     <MESSAGE value="adding the titles before some plots" />
     <MESSAGE value="clustering by categories, and heatmap, and some comments" />
-    <option name="LAST_COMMIT_MESSAGE" value="clustering by categories, and heatmap, and some comments" />
+    <MESSAGE value="decison tree inital code" />
+    <option name="LAST_COMMIT_MESSAGE" value="decison tree inital code" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
